@@ -1,6 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
+
+
+/* home */
+#home {
+    background: url("images/forge.png") bottom center / cover no-repeat;
+    min-height: 100vh;
+    position: relative; 
+    opacity: 80%;
+}
+
+/* shop */
 .card img {
     width: auto;
     height: auto;
+}
+
+
+/* buttons */
+.btn-outline-primary {
+    color: grey;
+    border: none;
+}
+
+.btn-outline-primary:hover {
+    background-color: grey;
+    transition: .3s;
 }
