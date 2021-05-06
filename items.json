@@ -1,0 +1,41 @@
+// price needs to be in pennies
+{
+    "general": [
+        {
+            "id" : 1,
+            "name" : "tanto",
+            "description" : "fuck you buddy",
+            "price" :  1499 ,
+            "imgName" : "knife1.png"
+        },
+        {
+            "id" : 2,
+            "name" : "kuri",
+            "description" : "fuck you buddy",
+            "price" :  1499 ,
+            "imgName" : "knife1.png"
+        }, 
+        {
+            "id" : 3,
+            "name" : "dagger",
+            "description" : "fuck you buddy",
+            "price" : 1499, 
+            "imgName" : "knife1.png"
+        },
+        {
+            "id" : 4,
+            "name" : "push",
+            "description" : "fuck you buddy",
+            "price" : 1499, 
+            "imgName" : "knife1.png"
+        }
+    
+
+    ],
+    "new": [
+
+    ],
+    "limited": [
+
+    ]
+}
